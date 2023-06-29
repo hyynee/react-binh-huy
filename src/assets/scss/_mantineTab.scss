@@ -1,0 +1,6 @@
+.active .mantine-Tabs-tab {
+  background-color: #6741d9;
+  &::after {
+    content: none;
+  }
+}
